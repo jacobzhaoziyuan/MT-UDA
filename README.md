@@ -46,9 +46,16 @@ cd MT-UDA
 
 
 ## Train
-
+```
+cd scripts
+bash train.sh
+```
 
 ## Evaluate
+```
+cd scripts
+bash evaluate.sh
+```
 
     
     
